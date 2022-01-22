@@ -31,7 +31,7 @@
     "lyrics-finder": "^21.7.0",
     "m3u8stream": "^0.8.4",
     "miniget": "^4.2.1",
-    "node-fetch": "v2",
+    "node-fetch": "v3",
     "node-os-utils": "^1.3.5",
     "pidusage": "^2.0.21",
     "pm2": "^5.1.2",
